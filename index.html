@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang ="en" class="nojs">
+<head>
+  <title>Lab 2</title>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" media="screen" href="normalize.css" />
+  <link rel="stylesheet" media="screen" href="screen.css" />
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="main_title">
+    <h1>Account Signup</h1>
+  </div>
+  <form method="POST" autocomplete="on" action="#">
+    <div id="body">
+      <fieldset>
+        <div id="first_name">   
+          <label>First Name:</label>
+        </div>
+        <input type="text" name="first_name">
+        <div id="last_name">
+          <label>Last Name:</label> 
+        </div>
+        <input type="text" name="last_name">
+        <div id="email">
+          <label>Email:</label> 
+        </div> 
+        <input type="email" name="email" placeholder="firstname@lastname.com">				
+        <div id="address">
+          <label>Address:</label> 
+        </div>
+        <input type="text" name="address">
+        <div id="phone">
+          <label>Phone Number:</label> 
+        </div>
+        <input type="tel" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="012-345-6789">
+        <div id="dob">
+          <label>Date of Birth:</label> 
+        </div>
+        <input type="text" name="dob" placeholder="mm/dd/yyyy">
+      </fieldset>
+    </div>
+    <input type="submit" value="Learn Filmmaking"/>
+  </form>
+</body>
+</html>	
