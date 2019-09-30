@@ -20,42 +20,42 @@ body {
   padding: .6em; 
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.6em;
-  color: #534746;	
+  color: #EAE1E1;	
 }
   
 #last_name {
   padding: .6em;
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.6em;
-  color: #534746;		
+  color: #EAE1E1;		
 }
 
 #email {
   padding: .6em;	
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.6em;
-  color: #534746;	
+  color: #EAE1E1;	
 }
 
 #address {
   padding: .6em;	
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.6em;
-  color: #534746;	
+  color: #EAE1E1;	
 }
 
 #phone {
   padding: .6em;	
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.6em;
-  color: #534746;	
+  color: #EAE1E1;	
 }
 
 #dob {
   padding: .6em;	
   font-family: 'Ubuntu', sans-serif;	
   font-size: 1.6em;
-  color: #534746;	
+  color: #EAE1E1;	
 }
 
 input[type=text] {
