@@ -100,8 +100,8 @@
   }
 
   input[type=submit] {
-  -webkit-transition-duration: 0.4s;
-  transition-duration: 0.4s;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
   border: none;
   padding: 16px 32px;
   text-align: center;
@@ -223,8 +223,8 @@
   }
   
   input[type=submit] {
-  -webkit-transition-duration: 0.4s;
-  transition-duration: 0.4s;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
   border: none;
   padding: 12px 24px;
   text-align: center;
