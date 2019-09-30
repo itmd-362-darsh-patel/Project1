@@ -64,7 +64,7 @@ input[type=text] {
   margin: 8px 0;	
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
-  border: solid #7B241C;     
+  border: solid #EAE1E1;     
   font-size: 1.7em;
 }
 
@@ -78,7 +78,7 @@ input[type=email] {
   margin: 8px 0;	
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
-  border: solid #7B241C;
+  border: solid #EAE1E1;
   font-size: 1.7em;	
 }
 
@@ -92,7 +92,7 @@ input[type=tel] {
   margin: 8px 0;	
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
-  border: solid #7B241C; 
+  border: solid #EAE1E1; 
   font-size: 1.7em;	
 }
 
