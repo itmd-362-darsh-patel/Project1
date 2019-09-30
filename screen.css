@@ -1,11 +1,10 @@
+@media only screen and (min-width: 0px) {
 body {
   background-image: url("background.jpg");
   background-repeat: no-repeat;
-  background-size: 56px 800px;   
-  background: rgb(230,169,127);
-  background: linear-gradient(90deg, rgba(230,169,127,1) 36%,rgba(0,212,255,1) 100%);	
+  background-size: 767px 800px;   
+  width: 70%;
   margin: 0 auto;	
-  width: 50%;	
 }
   
 #main_title {
@@ -121,7 +120,7 @@ input[type=submit]:hover {
   background-color: #555555;
   color: white;	
 }
-
+}
 @media only screen and (min-width: 768px) {
      
   body {
