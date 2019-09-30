@@ -191,7 +191,7 @@
   }
   
   input[type=text]:focus {
-  background-color: #DCDCDC;     
+  background-color: #F0D7D7;     
   }
 
   input[type=email] {
@@ -205,7 +205,7 @@
   }
   
   input[type=email]:focus {
-  background-color: #DCDCDC;     
+  background-color: #F0D7D7;     
   }
   
   input[type=tel] {
@@ -219,7 +219,7 @@
   }
   
   input[type=tel]:focus {
-  background-color: #DCDCDC;     
+  background-color: #F0D7D7;     
   }
   
   input[type=submit] {
