@@ -109,7 +109,7 @@ input[type=submit] {
   text-decoration: none;
   display: inline-block;
   font-size: 23px;
-  margin: 30px 10px;
+  margin: 50px 10px;
   cursor: pointer;  	
   background-color: white;
   color: black;
@@ -231,7 +231,7 @@ input[type=submit]:hover {
   text-decoration: none;
   display: inline-block;
   font-size: 20px;
-  margin: 30px 10px;
+  margin: 39px 10px;
   cursor: pointer;  	
   background-color: white;
   color: black;
