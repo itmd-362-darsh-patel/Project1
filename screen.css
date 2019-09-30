@@ -353,8 +353,8 @@ input[type=submit]:hover {
   }	
   
   input[type=submit] {
-  -webkit-transition-duration: 0.4s;
-  transition-duration: 0.4s;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
   border: none;
   padding: 10px 28px;
   text-align: center;
