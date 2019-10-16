@@ -10,49 +10,49 @@
   #main_title {
   padding: 10px;	
   font-size: 4em;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', Verdana, sans-serif;
   font-weight: bold;
   color: #F0D7D7;
   }
   
   #first_name {
   padding: .6em; 
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.6em;
   color: #EAE1E1;	
   }
   
   #last_name {
   padding: .6em;
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.6em;
   color: #EAE1E1;		
   }
 
   #email {
   padding: .6em;	
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.6em;
   color: #EAE1E1;	
   }
 
   #address {
   padding: .6em;	
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.6em;
   color: #EAE1E1;	
   }
   
   #phone {
   padding: .6em;	
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.6em;
   color: #EAE1E1;	
   }
   
   #dob {
   padding: .6em;	
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.6em;
   color: #EAE1E1;	
   }
@@ -113,7 +113,7 @@
   background-color: white;
   color: black;
   border: 2px solid #555555; 	
-  font-family: 'Ubuntu', sans-serif; 
+  font-family: 'Ubuntu', Verdana, sans-serif; 
   }
     
   input[type=submit]:hover {
@@ -133,49 +133,49 @@
   #main_title {
   padding: 10px;	
   font-size: 3.5em;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', Verdana, sans-serif;
   font-weight: bold;
   color: #F0D7D7;
   }
   
   #first_name {
   padding: .3em; 
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.2em;
   color: #EAE1E1;	
   }
   
   #last_name {
   padding: .3em;
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.2em;
   color: #EAE1E1;		
   }
   
   #email {
   padding: .3em;	
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.2em;
   color: #EAE1E1;	
   }
 
   #address {
   padding: .3em;	
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.2em;
   color: #EAE1E1;	
   }
 
   #phone {
   padding: .3em;	
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.2em;
   color: #EAE1E1;	
   }
 
   #dob {
   padding: .3em;	
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1.2em;
   color: #EAE1E1;	
   }
@@ -236,7 +236,7 @@
   background-color: white;
   color: black;
   border: 2px solid #555555; 	
-  font-family: 'Ubuntu', sans-serif; 
+  font-family: 'Ubuntu', Verdana, sans-serif; 
   }
   
   input[type=submit]:hover {
@@ -258,14 +258,14 @@
   #main_title {
   padding: 10px;	
   font-size: 3em;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', Verdana, sans-serif;
   font-weight: bold;
   color: #F0D7D7;
   }
   
   #first_name {
   padding: .3em; 
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1em;
   color: #EAE1E1;
   font-weight: bold;	
@@ -273,7 +273,7 @@
   
   #last_name {
   padding: .3em; 
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1em;
   color: #EAE1E1;
   font-weight: bold;
@@ -281,7 +281,7 @@
   
   #email {
   padding: .3em; 
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1em;
   color: #EAE1E1;
   font-weight: bold;	
@@ -289,7 +289,7 @@
 
   #address {
   padding: .3em; 
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1em;
   color: #EAE1E1;
   font-weight: bold;	
@@ -297,7 +297,7 @@
   
   #phone {
   padding: .3em; 
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1em;
   color: #EAE1E1;
   font-weight: bold;	
@@ -305,7 +305,7 @@
   
   #dob {
   padding: .3em; 
-  font-family: 'Ubuntu', sans-serif;	
+  font-family: 'Ubuntu', Verdana, sans-serif;	
   font-size: 1em;
   color: #EAE1E1;
   font-weight: bold;
@@ -368,7 +368,7 @@
   color: black;
   border: 2px solid #555555;  
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);	
-  font-family: 'Ubuntu', sans-serif;  
+  font-family: 'Ubuntu', Verdana, sans-serif;  
   }	
  
   input[type=submit]:hover {
