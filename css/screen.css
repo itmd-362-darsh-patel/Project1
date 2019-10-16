@@ -1,6 +1,6 @@
 @media only screen and (min-width: 0px) {
   body {
-  background-image: url("background.jpg");
+  background-image: url("images/background.jpg");
   background-repeat: no-repeat;
   background-size: 767px 1150px;   
   width: 70%;
@@ -125,7 +125,7 @@
 @media only screen and (min-width: 768px) {
      
   body {
-  background-image: url("background.jpg");
+  background-image: url("images/background.jpg");
   background-repeat: no-repeat;
   background-size: 1000px 800px;
   }                 
@@ -249,7 +249,7 @@
 @media only screen and (min-width: 992px) {
    
   body {
-  background-image: url("background.jpg");
+  background-image: url("images/background.jpg");
   background-repeat: no-repeat;
   background-size: 1536px 800px;
   width: 75%;	
