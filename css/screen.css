@@ -1,14 +1,23 @@
+/* Golden Section Modular Scale 
+https://www.modularscale.com/?26&px&1.6 */
+
+html {
+  font-family: 'Ubuntu', Verdana, sans-serif;            	
+  font-size: 1.625em; /* 26px */
+  line-height: 1.182em; /* 26px / ~ 120& */
+}
+
 body {
   background-image: url("images/background.jpg");
   background-repeat: no-repeat;
-  background-size: 767px 1150px;   
+  background-size: 767px 1350px;   
   width: 70%;
   margin: 0 auto;	
 }
   
 #main_title {
-  padding: 10px;	
-  font-size: 4em;
+  padding-top: 10px;	
+  font-size: 4.16em; /* 66.56 */
   font-family: 'Ubuntu', Verdana, sans-serif;
   font-weight: bold;
   color: #F0D7D7;
@@ -17,42 +26,36 @@ body {
 #first_name {
   padding: .6em; 
   font-family: 'Ubuntu', Verdana, sans-serif;	
-  font-size: 1.6em;
   color: #EAE1E1;	
 }
   
 #last_name {
   padding: .6em;
   font-family: 'Ubuntu', Verdana, sans-serif;	
-  font-size: 1.6em;
   color: #EAE1E1;		
 }
 
 #email {
   padding: .6em;	
   font-family: 'Ubuntu', Verdana, sans-serif;	
-  font-size: 1.6em;
   color: #EAE1E1;	
 }
 
 #address {
   padding: .6em;	
   font-family: 'Ubuntu', Verdana, sans-serif;	
-  font-size: 1.6em;
   color: #EAE1E1;	
 }
   
 #phone {
   padding: .6em;	
   font-family: 'Ubuntu', Verdana, sans-serif;	
-  font-size: 1.6em;
   color: #EAE1E1;	
 }
   
 #dob {
   padding: .6em;	
   font-family: 'Ubuntu', Verdana, sans-serif;	
-  font-size: 1.6em;
   color: #EAE1E1;	
 }
   
@@ -63,7 +66,7 @@ input[type=text] {
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
   border: solid #EAE1E1;     
-  font-size: 1.7em;
+  font-size: 1.3em;
 }
     
 input[type=text]:focus {
@@ -77,7 +80,7 @@ input[type=email] {
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
   border: solid #EAE1E1;
-  font-size: 1.7em;	
+  font-size: 1.3em;	
 }
 
 input[type=email]:focus {
@@ -91,7 +94,7 @@ input[type=tel] {
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8;
   border: solid #EAE1E1; 
-  font-size: 1.7em;	
+  font-size: 1.3em;	
 }
 
 input[type=tel]:focus {
@@ -122,16 +125,21 @@ input[type=submit]:hover {
 
  
 @media only screen and (min-width: 768px) {
-     
+ 
+  html {
+  font-family: 'Ubuntu', Verdana, sans-serif;            	
+  font-size: 1.5em; /* 24px */
+  line-height: 1.182em; /* 26px / ~ 120& */
+  } 
   body {
   background-image: url("images/background.jpg");
   background-repeat: no-repeat;
-  background-size: 1000px 800px;
+  background-size: 1000px 1100px;
   }                 
     
   #main_title {
   padding: 10px;	
-  font-size: 3.5em;
+  font-size: 3.84em; /* 61.44px */
   font-family: 'Ubuntu', Verdana, sans-serif;
   font-weight: bold;
   color: #F0D7D7;
@@ -247,6 +255,12 @@ input[type=submit]:hover {
  
 @media only screen and (min-width: 992px) {
    
+  html {
+  font-family: 'Ubuntu', Verdana, sans-serif;            	
+  font-size: 1.313em; /* 21px */
+  line-height: 1.182em; /* 26px / ~ 120& */
+  }	 
+  	 
   body {
   background-image: url("images/background.jpg");        
   background-repeat: no-repeat;
@@ -256,7 +270,7 @@ input[type=submit]:hover {
   	
   #main_title {
   padding: 10px;	
-  font-size: 3em;
+  font-size: 4.376em; /* ~ 70px */
   font-family: 'Ubuntu', Verdana, sans-serif;
   font-weight: bold;
   color: #F0D7D7;
